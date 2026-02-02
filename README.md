@@ -13,5 +13,5 @@ npx skills add zackkorman/skills
 Or you can install a specific skill:
 
 ```bash
-npx skills add zackkorman/skills@security-review
+npx skills add zackkorman/skills --skill security-review
 ```
