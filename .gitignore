@@ -1,0 +1,15 @@
+/.idea/
+*.vim
+/.vscode
+.dccache
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+main
+*.test
+*.out
+vendor/
+.env
+.DS_Store
