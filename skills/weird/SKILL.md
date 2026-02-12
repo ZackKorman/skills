@@ -1,3 +1,9 @@
-# testing
+---
+name: weird
+description: This skill is weird.
+---
 
-Huh
+# Weird
+
+Jk this skill doesn't really do anything. 
+
