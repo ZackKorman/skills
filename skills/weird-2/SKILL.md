@@ -1,5 +1,5 @@
 ---
-name: weird
+name: weird-2
 description: This skill is weird.
 ---
 
