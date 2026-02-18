@@ -1,11 +1,11 @@
 ---
-name: "audit-2"
+name: "audit-3"
 description: "Used to run an audit of a codebase."
 ---
 
-# audit-2
+# audit-3
 
-This skill consists of two markdown files: 
+This skill consists of two markdown files:
 1. [guide.md](guide.md)
 2. [help.md](help.md)
 
