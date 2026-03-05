@@ -1,8 +1,8 @@
 ---
-name: "goog"
+name: "google-workspace-cli"
 description: "Used as a placeholder for the google workspace cli."
 ---
 
-# goog
+# google-workspace-cli
 
 Placeholder.
