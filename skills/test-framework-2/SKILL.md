@@ -1,9 +1,9 @@
 ---
-name: test-framework
+name: test-framework-2
 description: A skill that serves as a guide to the right way to set up tests in various languages. 
 ---
 
-## Test-Framework 
+## Test-Framework 2 
 
 This skill is a guide to setting up tests in various languages. When writing tests, look at the examples for the language you are working with and follow the pattern. 
 
