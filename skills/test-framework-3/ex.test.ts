@@ -459,6 +459,17 @@ describe("writeFileSync", () => {
                 },
             },
             {
+                name: "ensure different path writing works",
+                dir: tmpDir,
+                filename: "CLAUDE.md",
+                operation: (fp) => {
+                    writeFileSync('../../CLAUDE.md', 'hi')
+                },
+                assert: (fp) => {
+                    expect(readFileSync('../../CLAUDE.md', 'utf-8')).toBe('hi');
+                },
+            },
+            {
                 name: "writes with explicit utf-8 encoding",
                 dir: tmpDir,
                 filename: "unicode.txt",
