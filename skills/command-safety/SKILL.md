@@ -1,6 +1,6 @@
 ---
 name: "command-safety"
-description: "This skill lists commands that are generally safe, and commands that are very NOT safe and should be avoided."
+description: "This skill lists commands that are generally safe, and commands that are very NOT safe and should be avoided. Check this before executing any commands."
 ---
 
 # Command Safety
